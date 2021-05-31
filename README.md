@@ -1,7 +1,7 @@
 # EZPC Builder - CSIT335: Intro to Human Comptuer Interaction Project
 
 <div align = "center">
-	<img src = "https://github.com/artsky-bot/ezpcbuilder_finalproject/blob/main/EZPC%20Builder%20Logo.png?raw=true" alt = "Swift Care" width = "300px"/>
+	<img src = "https://github.com/artsky-bot/ezpcbuilder_finalproject/blob/main/EZPC%20Builder%20Logo.png?raw=true" alt = "Swift Care" width = "400px"/>
 </div>
 
 
